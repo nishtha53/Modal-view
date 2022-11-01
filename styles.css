@@ -89,8 +89,8 @@ p {
 }
 
 @media screen and (max-width: 600px ) {
-     .show-modal{
-        display: flex;
-        flex-direction: row;
+    .show-modal{
+        width: 30%;
+        border-radius: 10rem;
      }
-  }
+ }
